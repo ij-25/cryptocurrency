@@ -123,4 +123,11 @@ const ExchangeCard = ({ name, img, rank, url }) => (
   </a>
 );
 
+<<<<<<< Updated upstream
 export default Coins;
+=======
+    </a >
+)
+
+export default Coins
+>>>>>>> Stashed changes
